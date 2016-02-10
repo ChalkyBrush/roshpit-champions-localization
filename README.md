@@ -7,4 +7,4 @@ Chinese file is handled by Koim
 
 
 
-The russian file is out of date. Needs update.
+The russian file is in control of Disabre as of 02/09/2016
