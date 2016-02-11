@@ -2817,9 +2817,9 @@
 
 		"tomb_remnant"							"Злой Скелет-Стрелок"
 		"ancient_ghost"							"Старый Призрак"
-		"tomb_defender"							"Безжалостный Мясник"
+		"tomb_defender"							"Защитник Могильника"
 		"raging_flame"							"Яростный Огонь"
-		"chained_butcher"						"Мясник с цепями"
+		"chained_butcher"						"Безжалостный Мясник"
 		"demon_clown"							"Ужасный демон"
 		"soul_sucker"							"Пожиратель душ"
 		"spine_hermit"							"Отшельник Иглоспин"
