@@ -533,7 +533,7 @@
     	"DOTA_Tooltip_ability_axe_rune_a_a_property_one"				"Доп. радиус"
     	"DOTA_Tooltip_ability_axe_rune_a_a_suffix"						""
 
-    	"DOTA_Tooltip_ability_axe_rune_a_b"								"Топор шпорами"
+    	"DOTA_Tooltip_ability_axe_rune_a_b"								"Топот шпорами"
     	"DOTA_Tooltip_ability_axe_rune_a_b_Description"					"Каждое использование умения Шоковая шпора также наносит урон ближайшим врагам."
     	"DOTA_Tooltip_ability_axe_rune_a_b_property_one"				"Урон"
     	"DOTA_Tooltip_ability_axe_rune_a_b_suffix"						""
@@ -1702,7 +1702,7 @@
     	"DOTA_Tooltip_ability_item_rpc_berserker_gloves_Description"					"Ячейка: Руки"
     	"DOTA_Tooltip_ability_item_rpc_shadow_armlet"									"Темный Армлет"
     	"DOTA_Tooltip_ability_item_rpc_shadow_armlet_Description"						"Ячейка: Руки"
-    	"DOTA_Tooltip_ability_item_rpc_boneguard_gauntlets"								"Наручи Защитника Скелетов"
+    	"DOTA_Tooltip_ability_item_rpc_boneguard_gauntlets"								"Наручи Скелета-Защитника"
     	"DOTA_Tooltip_ability_item_rpc_boneguard_gauntlets_Description"					"Ячейка: Руки"
     	"DOTA_Tooltip_ability_item_rpc_scorched_gauntlets"								"Рукавицы Высокого Пламени"
     	"DOTA_Tooltip_ability_item_rpc_scorched_gauntlets_Description"					"Ячейка: Руки"
@@ -2224,7 +2224,7 @@
 		"property_tranquil_boots_description"		"Восстанавливает вам 1% от макс. здоровья за каждые пройденные 200 юнитов."
 
 		"item_property_sange"						"Мастер битв"	
-		"property_sange_description"				"Каждое очко ЛовкостиEach point of Agility additionally increases your Max Health by 8."
+		"property_sange_description"				"Каждое очко Ловкости увеличивает макс. здоровье на 8."
 
 		"item_property_mana_striders"				"Восстановление маны"
 		"property_mana_striders_description"		"Восстанавливает 1% от вашей макс. маны за каждые пройденные 240 юнитов."
@@ -2541,7 +2541,7 @@
 		"warlord_weapon_22"			"Топоры Огненной Бури"
 		"warlord_weapon_23"			"Рассекатели Тора"
 		"warlord_weapon_24"			"Серебряные Топоры"
-		"warlord_weapon_25"			"Рассекающие Пространство Товоры"
+		"warlord_weapon_25"			"Рассекающие Пространство Топоры"
 
 		"bahamut_weapon_00"			"Базовая Руна"
 		"bahamut_weapon_01"			"Мощная Руна"
@@ -2709,7 +2709,7 @@
 		"DOTA_Tooltip_Ability_item_rpc_warlord_weapon_22"			"Топоры Огненной Бури"
 		"DOTA_Tooltip_Ability_item_rpc_warlord_weapon_23"			"Рассекатели Тора"
 		"DOTA_Tooltip_Ability_item_rpc_warlord_weapon_24"			"Серебряные Топоры"
-		"DOTA_Tooltip_Ability_item_rpc_warlord_weapon_25"			"Рассекающие Пространство Товоры"
+		"DOTA_Tooltip_Ability_item_rpc_warlord_weapon_25"			"Рассекающие Пространство Топоры"
 
 		"DOTA_Tooltip_Ability_item_rpc_bahamut_weapon_00"			"Базовая Руна"
 		"DOTA_Tooltip_Ability_item_rpc_bahamut_weapon_01"			"Мощная Руна"
@@ -2735,10 +2735,10 @@
 		"saveload_slot_bound"		"Этот герой привязан к слоту "
 
 		"saveload_load_menu"		"Загрузить Чемпиона"
-		"saveload_one_load"			"В одном лобби можно загрузить только 1 Чемпиона"
+		"saveload_one_load"			"Разрешена только 1 загрузка"
 
 		"saveload_save"				"Сохранение"
-		"saveload_load"				"загрузка"
+		"saveload_load"				"Загрузка"
 
 		"saveload_stash"			"Поток Вечности"
 		"saveload_stash_description"	"Предметы, сохранённые в Потоке Вечности можно перемещать между играми. Все предметы и персонажи привязаны к Steam аккаунту."
@@ -2750,9 +2750,9 @@
 		// World
 		//------------------------
 
-		"forest_portal_key"	"Ключ Лесного Портала"
-		"desert_portal_key"	"Ключ Пустынного Портала"
-		"mines_portal_key"	"Ключ Шахтерского Портала"
+		"forest_portal_key"	"Ключ Леса"
+		"desert_portal_key"	"Ключ Пустыни"
+		"mines_portal_key"	"Ключ Шахты"
 
 		"forest_portal_key_description"	"Позволяет пройти через Лесной портал"
 		//example: Actives the forest portal in Legend
