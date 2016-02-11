@@ -27,7 +27,7 @@
 
 		"human_rifleman"							"Бэтснайпермэн"
 		"dark_fighter"								"Тёмный Боец"
-		"hook_flinger"								"Метатель Крюка"
+		"hook_flinger"								"Боец с крюком"
 		"icy_venge"									"Ледяная Ярость"
 		"blood_jumper"								"Кровавый Прыгун"
 		"time_walker"								"Путешественник Во Времени"
@@ -59,8 +59,8 @@
 		"wastelands_archer"							"Стрелок Пустошей"						
 		"desert_ghost"								"Пустынный Призрак"
 		"bone_horror"								"Костяной Ужас"
-		"wandering_mage"							"Блуждающий Маг"
-		"satyr_doctor"								"Сатир Врач"
+		"wandering_mage"							"Маг - Кочевник"
+		"satyr_doctor"								"Сатир - Целитель"
 		"hammersaur"								"Молотозавр"
 		"alpha_wolf"								"Альфа Волк"
 		"general_wolfenstein"						"Генерал Вольфенштейн"
@@ -1673,7 +1673,7 @@
     	"DOTA_Tooltip_ability_item_rpc_scourge_knights_helm"							"Шлем Дымящегося Рыцаря"
     	"DOTA_Tooltip_ability_item_rpc_undertakers_hood"								"Капюшон Гробовщика"
     	"DOTA_Tooltip_ability_item_rpc_shroud_of_eternal_night"							"Капюшон Вечной Ночи"
-    	"DOTA_Tooltip_ability_item_rpc_wolfir_druids_spirit_helm"						"Шлем Духа Друида Вольфир"
+    	"DOTA_Tooltip_ability_item_rpc_wolfir_druids_spirit_helm"						"Шлем Духа Друида Воль'фир"
     	"DOTA_Tooltip_ability_item_rpc_blinded_glint_of_onu"							"Ослепительная Вспышка Ону"
     	"DOTA_Tooltip_ability_item_rpc_crown_of_the_roknar_emperor"						"Корона Императора Рок'Нар"
 
@@ -1720,7 +1720,7 @@
 
     	"DOTA_Tooltip_ability_item_rpc_dunetread_boots"									"Сапоги Путешественника"
     	"DOTA_Tooltip_ability_item_rpc_boots_of_the_violet_guard"						"Сапоги Фиолетового Стража"
-    	"DOTA_Tooltip_ability_item_rpc_slinger_boots"									"Сапоги Кузнеца"
+    	"DOTA_Tooltip_ability_item_rpc_slinger_boots"									"Сапоги Скрытой Атаки"
     	"DOTA_Tooltip_ability_item_rpc_guardian_greaves"								"Наголенники Защитника"
     	"DOTA_Tooltip_ability_item_rpc_tranquil_boots"									"Ботинки Спокойствия"
     	"DOTA_Tooltip_ability_item_rpc_sange_boots"										"Ботинки Сэндж"
@@ -1729,9 +1729,9 @@
     	"DOTA_Tooltip_ability_item_rpc_fire_walkers"									"Сапоги Огненной Поступи"
     	"DOTA_Tooltip_ability_item_rpc_moon_tech_runners"								"Тапки Лунного Бегуна"
     	"DOTA_Tooltip_ability_item_rpc_sonic_boots"										"Ботинки Звука"
-    	"DOTA_Tooltip_ability_item_rpc_falcon_boots"									"Ботинки Фалкона"
+    	"DOTA_Tooltip_ability_item_rpc_falcon_boots"									"Ботинки Сокола"
     	"DOTA_Tooltip_ability_item_rpc_admiral_boots"									"Ботинки Адмирала"
-    	"DOTA_Tooltip_ability_item_rpc_rooted_feet"										"Прорастающие Ноги"
+    	"DOTA_Tooltip_ability_item_rpc_rooted_feet"									"Прорастающие Ноги"
     	"DOTA_Tooltip_ability_item_rpc_crusader_boots"									"Ботинки Крестоносца"
     	"DOTA_Tooltip_ability_item_rpc_arcanys_slipper"									"Загадочные Тапки"
     	"DOTA_Tooltip_ability_item_rpc_swamp_waders"									"Болотоходы"
@@ -1745,7 +1745,7 @@
     	"DOTA_Tooltip_ability_item_rpc_boots"											"Сяжелые Сапоги"
     	"DOTA_Tooltip_ability_item_rpc_boots_Description"								"Ячейка: Ноги"
 
-    	"DOTA_Tooltip_ability_item_rpc_ghost_slippers"									"Призрачные Ботинки"
+    	"DOTA_Tooltip_ability_item_rpc_ghost_slippers"									"Ботинки Призрака"
     	"DOTA_Tooltip_ability_item_rpc_ghost_slippers_Description"						"Ячейка: Ноги"
 
     	"DOTA_Tooltip_ability_item_rpc_robe"											"Роба"
@@ -1936,7 +1936,7 @@
 		"ui_base_skills"		"Основные умения"
 		"ui_runes"				"Руны"
 		"ui_future_patch"		"Больше рун в следующих обновлениях"
-		"ui_loading"			"загрузка. Пожалуйста, подождите."
+		"ui_loading"			"Загрузка. Пожалуйста, подождите."
 
 		"ui_equipment"			"Снаряжение"
 		"ui_skills"				"Умения"
@@ -1946,17 +1946,17 @@
 		"ui_close_equipment"	"Закрыть Снаряжение"
 		"ui_take_new_item"		"Надеть новый предмет"
 		"ui_keep_old_item"		"Оставить старый"
-		"ui_picked_up"			"Подобрал"
+		"ui_picked_up"			"Подбирает"
 		"ui_equip_new"			"Надевает"
 		"ui_close_panel"		"Закрыть"
 
 		"ui_rolled"				"Выпало"
 		"ui_need_roll"			"Нужно!"
 		"ui_need_roll_description"	"Выйгрыш в лотерее с выбором Нужно! автоматически надевает выйгранный предмет, заменяя существующий в этой ячейке. Пункт Нужно! имеет приоритет над Забрать."
-		"ui_won_need_roll"		"Выйграли нужную вещь!"
+		"ui_won_need_roll"		"Выйграл предмет!"
 		"ui_greed_roll"			"Забрать"
 		"ui_greed_roll_description"	"Забирая предмет, вы получите его в свой инвентарь. Невозможно забрать предмет, если кто-то выбрал его как нужный."
-		"ui_won_greed_roll"		"Забрал предмет"		
+		"ui_won_greed_roll"		"Забрал предмет!"		
 		"ui_pass_roll"			"Пас"
 		"ui_pass_roll_description"	"Пропустите, если вам не нужен указанный предмет. Если все игроки откажутся, предмет будет уничтожен."
 
@@ -2031,8 +2031,8 @@
 
 		"item_evasion"				"Шанс уклонения"
 
-		"item_min_level"			"Требуемый уровень"
-		"item_min_level_reduction"	"Понижены требования по уровню"
+		"item_min_level"			"Мин. требуемый уровень"
+		"item_min_level_reduction"	"Понижение требований к уровню"
 
 		"item_property_steelbark"			"Живая защита"
 		"property_steelbark_description"	"Когда здоровье опускается ниже 40% дает 100 доп. реген здоровья и +40 брони."
@@ -2055,7 +2055,7 @@
 		"item_property_azinoth"						"Выжженный Азинот"
 		"property_azinoth_description"				"Получаемый урон от всех источников увеличен на 50%"
 
-		"item_property_divine_purity"				"Святая чистота"
+		"item_property_divine_purity"				"Святой гнев"
 		"property_divine_purity_description"		"Базовые атаки дополнительно наносят 20% чистого урона"	
 
 		"item_property_marauder"					"Руки Мародёра"
@@ -2118,10 +2118,10 @@
 		"item_property_death_whisper"				"Шепот смерти"
 		"property_death_whisper_description"		"Все враги, задетые способностью @Ability1 будут замедлены на 100 и получать на 20% больше урона из всех источников в течение 5 секунд."
 
-		"item_property_wild_nature"					"Entangling Roots"
+		"item_property_wild_nature"					"Ползучие лианы"
 		"property_wild_nature_description"			"С 10% шансом враг, атакующий вас будет связан в течение 3 секунд и будет получать ежесекундный урон равный 6х вашей ловкости."
 
-		"item_property_wild_nature_two"				"Ensnaring Roots"
+		"item_property_wild_nature_two"				"Ползучие лианы"
 		"property_wild_nature_two_description"		"Задетые способностью @Ability2 враги с 5% шансом будут обездвижены на 3 секунды и будут получать ежесекундный урон, равный 6x вашего основного аттрибута."
 
 		"item_property_luma"						"Лунные лучи"
@@ -2389,7 +2389,7 @@
 		"upgrade_tooltip_attack_damage"	"Увеличивает урон у вашего оружия."
 
 		"flamewaker_weapon_01"			"Клинок Земляного Дракона"
-		"flamewaker_weapon_02"			"Клинок Возлушного Дракона"
+		"flamewaker_weapon_02"			"Клинок Воздушного Дракона"
 		"flamewaker_weapon_03"			"Клинок Огненного Дракона"
 		"flamewaker_weapon_11"			"Меч Гиганта"
 		"flamewaker_weapon_12"			"Меч Языка пламени"
@@ -2420,7 +2420,7 @@
 		"axe_weapon_11"			"Лезвие Тора"
 		"axe_weapon_12"			"Топор Опустошения"
 		"axe_weapon_13"			"Тяжелый Крушитель Черепов"
-		"axe_weapon_14"			"Разрубающий Мир"
+		"axe_weapon_14"			"Зазубренный Топор"
 		"axe_weapon_21"			"Красный Неистовый Топор"
 		"axe_weapon_22"			"Алый Череполом"
 		"axe_weapon_23"			"Кованый Мифрильный Блестящий Топор"
@@ -2548,7 +2548,7 @@
 		"DOTA_Tooltip_Ability_item_debug_blink"   "debug"
 		"DOTA_Tooltip_Ability_item_rpc_basic_sword"   "debug"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_01"   "Клинок Земляного Дракона"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_02"   "Клинок Возлушного Дракона"
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_02"   "Клинок Воздушного Дракона"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_03"   "Клинок Огненного Дракона"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_11"   "Меч Гиганта"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_12"   "Меч Языка пламени"
@@ -2652,7 +2652,7 @@
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_11"   "Лезвие Тора"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_12"   "Топор Опустошения"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_13"   "Тяжелый Крушитель Черепов"
-		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_14"   "Разрубающий Мир"
+		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_14"   "Зазубренный Топор"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_21"   "Красный Неистовый Топор"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_22"   "Алый Череполом"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_23"   "Кованый Мифрильный Блестящий Топор"
@@ -2815,9 +2815,9 @@
 		"DOTA_Tooltip_modifier_warden_debuff"					"Смертельный взгляд"
 		"DOTA_Tooltip_modifier_warden_debuff_Description"		"Теряется мана"
 
-		"tomb_remnant"							"Останки Могильника"
+		"tomb_remnant"							"Злой Скелет-Стрелок"
 		"ancient_ghost"							"Старый Призрак"
-		"tomb_defender"							"Защитник Могильника"
+		"tomb_defender"							"Безжалостный Мясник"
 		"raging_flame"							"Яростный Огонь"
 		"chained_butcher"						"Мясник с цепями"
 		"demon_clown"							"Ужасный демон"
