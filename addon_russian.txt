@@ -1985,7 +1985,7 @@
     	//------------------------
 		// Item Properties
 		//------------------------
-		"item_broken_slot"		"Сломанный слот"
+		"item_broken_slot"		"Неактивный слот"
 		"item_agility"			"Ловкость"
 		"item_strength"			"Сила"
 		"item_intelligence"		"Интеллект"
@@ -2036,7 +2036,7 @@
 		"item_perm_intelligence"	"Доп. Интеллект"
 
 		"item_critical_strike"		"Критический удар"
-		"item_splash_damage"		"Удар по области %"	
+		"item_splash_damage"		"Удар по области, %"	
 		"item_aspect_health"		"Доп. здоровье элементалей"
 
 		"item_lifesteal"		    "Вампиризм %"
@@ -2055,8 +2055,8 @@
 		"item_property_shadow_armlet"			"Теневой шаг"
 		"property_shadow_armlet_description"	"15% шанс перевести полученный урон в лечение."
 
-		"item_property_boneguard"				"Воскрешение мертвецов"
-		"property_boneguard_description"		"15% при атаке призвать воина-скелета, который будет сражаться на вашей стороне в течение 20 seconds. Максимум 5 скелетов."
+		"item_property_boneguard"				"Скелет-защитник"
+		"property_boneguard_description"		"При каждой атаке с шансом 15% рядом с целью появится скелет-защитник, сражающийся на вашей стороне в течение 20 секунд. Максимум 5 скелетов."
 
 		"item_property_scorched_gauntlet"			"Выжженная земля"
 		"property_scorched_gauntlet_description"	"20% шанс при атаке сжечь под врагом землю, нанося урон всем находящимся рядом противникам"
@@ -2074,7 +2074,7 @@
 		"property_marauder_description"				"Каждая базовая атака дает вам 10% доп. реген. здоровья и 200 доп. макс. здоровья. Длится 7 секунд и обновляется с каждой атакой. Складывается до 50 раз."
 
 		"DOTA_Tooltip_modifier_hand_marauder_effect" "Мародёр"
-		"DOTA_Tooltip_modifier_hand_marauder_effect_description" "Здоровье и реген. здоровья увеличены."
+		"DOTA_Tooltip_modifier_hand_marauder_effect_description" "Макс. здоровье и реген. здоровья увеличены."
 
 		"item_property_elder_grasp"					"Древнее господство"
 		"property_elder_grasp_description"			"Каждое использование способности @Ability2 - восстанавливает 4% от вашего макс. здоровья."
@@ -2256,7 +2256,7 @@
 		"property_rooted_feet_description"			"Пока персонаж стоит на месте, его броня увеличена вдвое, а реген. здоровья втрое."
 
 		"item_property_monkey_paw"					"Сокровенное желание"
-		"property_monkey_paw_description"			"После прочтения способности @Ability4 - случайный предмет качества Immortal будет выброшен из этого артефакта на землю. Может быть выброшего ограниченное количество предметов, после чего способность предмета заменится на Сломанный слот."
+		"property_monkey_paw_description"			"После прочтения способности @Ability4 - случайный предмет качества Immortal будет выброшен из этого артефакта на землю. Может быть выброшего ограниченное количество предметов, после чего способность предмета заменится на Неактивный слот."
 
 		"item_property_blacksmiths_tablet"			"Обогащение"
 		"property_blacksmiths_tablet_description"	"Скорость получения ОПЫТА для вашего оружия увеличена на 20%"
@@ -2327,7 +2327,7 @@
 		"item_property_eternal_night"				"Транквилизатор"
 		"property_eternal_night_description"		"Атакующие вас враги с 15% шансом уснут на 6 секунд. Любой урон мгновенно пробудит их ото сна."
 
-		"item_property_cytopian_laser"				"Кайтопианский лазер"
+		"item_property_cytopian_laser"				"Китопианский лазер"
 		"property_cytopian_laser_description"		"Произнесение способности @Ability2 выпустит лазерный луч во всех пораженных врагов, нанося урон, указанный под заголовком."
 
 		"item_property_power_ranger"				"Сверхсила"
