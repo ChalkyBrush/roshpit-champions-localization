@@ -1082,6 +1082,8 @@
     	"DOTA_Tooltip_ability_sorceress_rune_b_d_property_one"				"Урон/Сек."
     	"DOTA_Tooltip_ability_sorceress_rune_b_d_suffix"					""
 
+
+
     	"DOTA_Tooltip_ability_sorceress_rune_c_a"							"Ледяная защита"
     	"DOTA_Tooltip_ability_sorceress_rune_c_a_Description"				"Во время Снежной бури Волшебница защищена ледяной защитой"
     	"DOTA_Tooltip_ability_sorceress_rune_c_a_property_one"				"Броня"
@@ -1125,6 +1127,9 @@
 
 		"DOTA_Tooltip_modifier_ring_of_fire_down"							"Кольцо огня"
 		"DOTA_Tooltip_modifier_ring_of_fire_down_description"				"Восстанавливается."
+
+    	"Tooltip_sorceress_q"											"Снежная буря и Ледяное комьё"
+    	"Tooltip_sorceress_r"											"Огненный взрыв и Огненный шар"
 
     	//--------------------
 
@@ -1789,7 +1794,7 @@
 		"DOTA_Tooltip_ability_item_rpc_stormshield_cloak"								"Накидка Штормов"
 		"DOTA_Tooltip_ability_item_rpc_gilded_soul_cage"								"Клетка Душ"
 		"DOTA_Tooltip_ability_item_rpc_bluestar_armor"									"Броня Синей Звезды"
-		"DOTA_Tooltip_ability_item_rpc_hermits_spike_shell"								"Шипастый Панцирь Гермита"
+		"DOTA_Tooltip_ability_item_rpc_hermits_spike_shell"								"Шипастый Панцирь Отшельника"
 
     	"DOTA_Tooltip_ability_item_rpc_ruby_ring"										"Кольцо"
     	"DOTA_Tooltip_ability_item_rpc_ruby_ring_Description"							"Ячейка: Украшение"
@@ -1814,6 +1819,8 @@
 		"DOTA_Tooltip_ability_item_rpc_azure_empire"									"Кулон Империи Азур"
 		"DOTA_Tooltip_ability_item_rpc_signus_charm"									"Медальон Сигнуса"
 		"DOTA_Tooltip_ability_item_rpc_eye_of_avernus"									"Око Авернуса"
+		"DOTA_Tooltip_ability_item_rpc_tome_of_chaos"									"Том Хаоса"
+		"DOTA_Tooltip_ability_item_rpc_torch_of_gengar"									"Светоч Генгара"
 
 
 
@@ -2378,6 +2385,21 @@
 		"item_property_hermit_spike_shell"			"Выброс шипов"
 		"property_hermit_spike_shell_description"	"Каждый раз получая 15% от максимального здоровья, будут выпускаться шины в области вокргу героя, наносящие 6x от полученного урона."
 
+		"item_property_voyager"						"Путешественник"
+		"property_voyager_description"				"После применения @Ability3 - Сокращяет время перезарядки всех способностей на 30%."
+
+		"item_property_tome_of_chaos"				"Демонический мир"
+		"property_tome_of_chaos"					"После применения способности @Ability2 на поле боя появится могущественный демон, оглушая врагов на 2 секунды в месте появления. Свойства демона основаны на характеристиках призвавшего его героя. он имеет вдвое больше здоровья, вполовину меньше брони, а атаки бьют по площади с уроном, равным пятикратной сумме всех аттрибутов<br>Демон живёт 20 секунд, после чего покидает поле битвы. Время восстановления 30 секунд."
+
+		"DOTA_Tooltip_modifier_tome_of_chaos_cooldown"	"Способность предмета Том хаоса - Демонический мир восстанавливается."
+		"DOTA_Tooltip_modifier_tome_of_chaos_cooldown_Description"	""
+
+		"item_property_gengar"						"Шаги тени"
+		"property_gengar"							"При получении урона есть шанс 8%, что герой получит возможность уклоняться от 30% атак, ходить сквозь юнитов и увеличит урон от всех способностей на 100% на 6 секунд."
+
+		"DOTA_Tooltip_modifier_torch_of_gengar_effect"	"Светоч Генгара - Шаги тени"
+		"DOTA_Tooltip_modifier_torch_of_gengar_effect_Description"	"30% уклонение, хождение сквозь юнитов, урон всех способностей удвоен."
+
 		//------------------------
 		//WEAPONS
 		//------------------------
@@ -2388,6 +2410,7 @@
 		"weapon_lvl_tip"				"Посетите кузнеца в городе, чтобы улучшить оружие."
 		"blacksmith_title"				"Кузнец"
 		"dialogue_blacksmith"			"Как там бива? Хочешь что-нибудь улучшить?"
+		"dialogue_blacksmith_two"		"Здесь для меня нет работы. Найди себе оружие на поле битвы. Ищи оружие с нужными и наиболее высокими начальными показателями, а так-же высоким максимальным уровнем!"
 		"weapon_upgrade_tip"			"Оружие сейчас не может быть улучшено. Приходи, когда оно достигнет нужного уровня."
 		"weapon_upgrade_tip_available"	"Улучшение доступно"
 		"weapon_upgrade_tip_two"		"Выберите путь улучшения."
@@ -2400,9 +2423,14 @@
 		"upgrade_tooltip_splash_damage" "Добавляет 300 радиус доп. атаки."
 		"upgrade_tooltip_attack_damage"	"Увеличивает урон у вашего оружия."
 
-		"flamewaker_weapon_01"			"Клинок Земляного Дракона"
-		"flamewaker_weapon_02"			"Клинок Воздушного Дракона"
-		"flamewaker_weapon_03"			"Клинок Огненного Дракона"
+		"weapon_current_level"			"Уровень"
+		"weapon_max_level"				"Макс. уровень"
+
+		"weapon_usable"					"Оружие используется героем:"
+
+		"flamewaker_weapon_01"			"Драконий Меч Земли"
+		"flamewaker_weapon_02"			"Драконий Меч Воздуха"
+		"flamewaker_weapon_03"			"Драконий Меч Огня"
 		"flamewaker_weapon_11"			"Меч Гиганта"
 		"flamewaker_weapon_12"			"Меч Языка пламени"
 		"flamewaker_weapon_13"			"Меч Пробудившегося Дракона"
@@ -2557,11 +2585,13 @@
 		"bahamut_weapon_24"			"Руна Не Знающего Страха"
 		"bahamut_weapon_25"			"Руна Просвящения"
 
+		//ABOVE STRINGS ARE DEPRECATED. FROM NOW ON WE USE THE ONES BELOW: 
+
 		"DOTA_Tooltip_Ability_item_debug_blink"   "debug"
 		"DOTA_Tooltip_Ability_item_rpc_basic_sword"   "debug"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_01"   "Клинок Земляного Дракона"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_02"   "Клинок Воздушного Дракона"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_03"   "Клинок Огненного Дракона"
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_01"   "Драконий Меч Земли"
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_02"   "Драконий Меч Воздуха"
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_03"   "Драконий Меч Огня"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_11"   "Меч Гиганта"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_12"   "Меч Языка пламени"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_13"   "Меч Пробудившегося Дракона"
@@ -2569,9 +2599,8 @@
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_21"   "Клинок Горного Дракона"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_22"   "Клинок Повелителя Драконов"
 		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_23"   "Меч Танцующего Дракона"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_24"   "Теневой Меч Черного Вирма"
-		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_25"   "Меч Древнего Вирма"
-
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_24"   "Опалённый Меч Чёрного Змея"
+		"DOTA_Tooltip_Ability_item_rpc_flamewaker_weapon_25"   "Меч Древнего Змея"
 
 		"DOTA_Tooltip_Ability_item_rpc_epoch_weapon_01"   "Посох Искажения"
 		"DOTA_Tooltip_Ability_item_rpc_epoch_weapon_02"   "Посох Ловца Времени"
@@ -2628,7 +2657,7 @@
 		"DOTA_Tooltip_Ability_item_rpc_astral_weapon_24"   "Длинный Коготь Феникса"
 		"DOTA_Tooltip_Ability_item_rpc_astral_weapon_25"   "Небесный Лук"
 
-		"DOTA_Tooltip_Ability_item_rpc_basic_staff"   "Посохх"
+		"DOTA_Tooltip_Ability_item_rpc_basic_staff"   "Посох"
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_01"   "Снежный Посох"
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_02"   "Снежный Посох"
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_03"   "Мистический Посох Лотуса"
@@ -2641,6 +2670,7 @@
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_23"   "Ледяной Посох Северного Ветра"
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_24"   "Посох Связи Духов"
 		"DOTA_Tooltip_Ability_item_rpc_sorceress_weapon_25"   "Посох Призыва Бессмертных"
+
 
 		"DOTA_Tooltip_Ability_item_rpc_venomort_weapon_00"   "Коса"
 		"DOTA_Tooltip_Ability_item_rpc_venomort_weapon_01"   "Руническая Коса"
@@ -2655,7 +2685,6 @@
 		"DOTA_Tooltip_Ability_item_rpc_venomort_weapon_23"   "Лезвие Жнеца Грима"
 		"DOTA_Tooltip_Ability_item_rpc_venomort_weapon_24"   "Жнец Черной Смерти"
 		"DOTA_Tooltip_Ability_item_rpc_venomort_weapon_25"   "Жнец Безграничности"
-
 
 		"DOTA_Tooltip_Ability_item_rpc_basic_axe"   "Топор"
 		"DOTA_Tooltip_Ability_item_rpc_axe_weapon_01"   "Мощный Топор"
@@ -2759,7 +2788,7 @@
 		"desert_portal_key_description"	"Позволяет пройти через Пустынный портал"
 		"mines_portal_key_description"	"Позволяет пройти через Шахтёрский портал"
 
-		"ui_acquired_key"				"Для этого портала нужен ключ"
+		"ui_acquired_key"				"Получен ключ портала"
 
     	//------------------------
 		// Dungeons
@@ -2768,7 +2797,7 @@
 		"dungeon_initiation_text"	"Хочет войти в подземелье"
 		"dungeon_graveyard_title"	"Кладбище"
 		"dungeon_vote_tip"			"Нельзя начать новое голосование, пока не закончится текущее!"
-		"dungeon_clear"				"подземелье пройдено!"
+		"dungeon_clear"				"Подземелье пройдено!"
     	//------------------------
 		// Graveyard
 		//------------------------
@@ -2842,7 +2871,7 @@
 		"vision_warden"							"Страж воображений"
 		"sand_tomb_boss"						"Паразит могильника Силициус"
 
-		"crixalis_dialogue"						"Теперь я успокоюсь навеки среди бесконечных песков..."
+		"crixalis_dialogue"						"Теперь я упокоюсь навеки среди бесконечных песков..."
 
 		//---------------------------
 		// Vault
@@ -2853,7 +2882,7 @@
 		"dialogue_rare_shop"					"Послушай, я не хочу торчать здесь вечно. Мне лишь нужны твои деньги. Так тебя что-нибудь заинтересовало?"
 		"DOTA_Tooltip_ability_random_immortal_helm"	"Immortal Шлем"
 		"secret_shop_immortal"	"Случайный шлем качества Immortal"
-		"vault_keyholder_dialogue"				"Ладно, УСПОКОЙСЯ! Никому не нужно столько боли. Я открою эту чертову дверь, но оставьте меня в покое."
+		"vault_keyholder_dialogue"				"Ладно, УСПОКОЙСЯ! Никто не должен пострадать. Я открою эту чертову дверь, но оставьте меня в покое."
 		"vault_antimage_fight_dialogue_one"		"Я богат! Каким и был всегда. Здесь вы уже ничего не сможете сделать."
 		"vault_antimage_fight_dialogue_two"		"А! Вы еще не знаете?"
 		"vault_antimage_fight_dialogue_three"	"С помощью денег..."
@@ -2862,8 +2891,8 @@
 
 		"dynasty_heir_majinaq"					"Наследник Династии Маджинак"
 		"vault_guard"							"Защитник Подвала"
-		"vault_assassin"						"защитник Подвала"
-		"vault_antimage"						"Маджинаг"	
+		"vault_assassin"						"Защитник Подвала"
+		"vault_antimage"						"Маджинак"	
 		"vault_pleb"							"Служитель подвала"
 		"vault_invisible_keyholder"				"Ключеносец"
 		"vault_executioner"						"Экзекутор"
