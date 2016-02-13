@@ -1128,7 +1128,7 @@
 		"DOTA_Tooltip_modifier_ring_of_fire_down"							"Кольцо огня"
 		"DOTA_Tooltip_modifier_ring_of_fire_down_description"				"Восстанавливается."
 
-    	"Tooltip_sorceress_q"											"Снежная буря и Ледяное комьё"
+    	"Tooltip_sorceress_q"											"Снежная буря и Ледяное копьё"
     	"Tooltip_sorceress_r"											"Огненный взрыв и Огненный шар"
 
     	//--------------------
@@ -1372,7 +1372,7 @@
     	"DOTA_Tooltip_modifier_monk_rune_c_b"						"Клинок света"
     	"DOTA_Tooltip_modifier_monk_rune_c_b_Description"			"Вампиризм от основных атак."
 
-    	"DOTA_Tooltip_ability_monk_rune_c_c"						"Вакдзаси"
+    	"DOTA_Tooltip_ability_monk_rune_c_c"						"Вакидзаси"
     	"DOTA_Tooltip_ability_monk_rune_c_c_Description"			"После использования умения Смертельный прорыв Святой начинает быстро вращаться, нанося урон ближайшим противникам."
     	"DOTA_Tooltip_ability_monk_rune_c_c_property_one"			"Урон"
     	"DOTA_Tooltip_ability_monk_rune_c_c_suffix"					""
