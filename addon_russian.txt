@@ -2426,7 +2426,7 @@
 		"weapon_current_level"			"Уровень"
 		"weapon_max_level"				"Макс. уровень"
 
-		"weapon_usable"					"Оружие используется героем:"
+		"weapon_usable"					"может использовать это оружие."
 
 		"flamewaker_weapon_01"			"Драконий Меч Земли"
 		"flamewaker_weapon_02"			"Драконий Меч Воздуха"
