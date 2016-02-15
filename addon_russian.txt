@@ -3,7 +3,7 @@
 	"Language"		"Russian"
 	"Tokens"
 	{		
-		"addon_game_name"			"Рошпит Чемпионов: Выживание"
+		"addon_game_name"			"Roshpit Чемпионов: Выживание"
 
 		//--------------------
 		//Heroes
@@ -1753,7 +1753,7 @@
     	"DOTA_Tooltip_ability_item_rpc_arcanys_slipper"									"Загадочные Тапки"
     	"DOTA_Tooltip_ability_item_rpc_swamp_waders"									"Болотоходы"
     	"DOTA_Tooltip_ability_item_rpc_swamp_doctors_tribal_mask"						"Ритуальная Маска Болотного Доктора"
-
+    	"DOTA_Tooltip_ability_item_rpc_voyager_boots"									"Ботинки Путешественника"
 
     	"DOTA_Tooltip_ability_item_rpc_slippers"										"Тапки"
     	"DOTA_Tooltip_ability_item_rpc_slippers_Description"							"Ячейка: Ноги"
