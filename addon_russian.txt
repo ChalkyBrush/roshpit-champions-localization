@@ -622,7 +622,7 @@
     	"DOTA_Tooltip_ability_backshock_speed"							"СКОРОСТЬ ВОЛНЫ:"
 
 		"DOTA_Tooltip_ability_stun_attack"								"Skull Basher"
-		"DOTA_Tooltip_ability_stun_attack_Description"					"С каждой атакой Red General оглушает врагов мощным взрывом. Так-же на время действия повышается скорость атаки."
+		"DOTA_Tooltip_ability_stun_attack_Description"					"Герой прыгает в указанную точку. С каждой атакой Red General оглушает врагов мощным взрывом. Так-же на время действия повышается скорость атаки."
 		"DOTA_Tooltip_ability_stun_attack_Lore"							""
 		"DOTA_Tooltip_ability_stun_attack_attack_speed"					"ДОП. СКОРОСТЬ АТАКИ:"
 		"DOTA_Tooltip_ability_stun_attack_bolt_damage"					"УРОН ОТ ВЗРЫВА:"
@@ -691,7 +691,7 @@
     	"DOTA_Tooltip_ability_axe_rune_b_d_suffix_two"					""
 
     	"DOTA_Tooltip_ability_axe_rune_c_a"								"(Q3) Heroic Leap"
-    	"DOTA_Tooltip_ability_axe_rune_c_a_Description"					"Когда Red General произнесет заклинание Skull Basher, он прыгнет к месту, где находится курсор. По приземлении активируется усиленная способность Sunder. Во время прыжка значения умений Skull Basher, Return и Berserker Rage будут сброшены и приостановлены. Макс. дальность прыжка: 1200."
+    	"DOTA_Tooltip_ability_axe_rune_c_a_Description"					"Когда Red General произнесет заклинание Skull Basher, он прыгнет к месту, где по приземлении активируется усиленная способность Sunder. Во время прыжка значения умений Skull Basher, Return и Berserker Rage будут сброшены и приостановлены."
     	"DOTA_Tooltip_ability_axe_rune_c_a_property_one"				"Урон"
     	"DOTA_Tooltip_ability_axe_rune_c_a_suffix"						"% от умения Sunder"
 
@@ -845,7 +845,7 @@
     	"DOTA_Tooltip_ability_astral_rune_c_b_suffix"					"%"
 		
     	"DOTA_Tooltip_ability_astral_rune_c_c"							"(E3) Astral Shroud"
-    	"DOTA_Tooltip_ability_astral_rune_c_c_Description"				"Astral Rift дарует Astral Rnager покров увеличивающий сопротивление магии и регенерацию здоровья в течение 6 секунд."
+    	"DOTA_Tooltip_ability_astral_rune_c_c_Description"				"Astral Rift дарует Astral Ranger покров увеличивающий сопротивление магии и регенерацию здоровья в течение 6 секунд."
     	"DOTA_Tooltip_ability_astral_rune_c_c_property_one"				"Регенерация "
     	"DOTA_Tooltip_ability_astral_rune_c_c_suffix"					" Здоровье/Сек"
     	"DOTA_Tooltip_ability_astral_rune_c_c_property_two"				"Сопротивление магии"
@@ -964,7 +964,7 @@
 
     	"DOTA_Tooltip_ability_epoch_rune_b_b"							"(W2) Generation Storm"
     	"DOTA_Tooltip_ability_epoch_rune_b_b_Description"				"Создает направленный взрыв времени на краю Generation Crack."
-    	"DOTA_Tooltip_ability_epoch_rune_b_b_property_one"				"Урон"
+    	"DOTA_Tooltip_ability_epoch_rune_b_b_property_one"				"Доп. урон"
     	"DOTA_Tooltip_ability_epoch_rune_b_b_suffix"					""
 
     	"DOTA_Tooltip_ability_epoch_rune_a_c"							"(E1) Time Bend"
@@ -1810,7 +1810,7 @@
     	"DOTA_Tooltip_ability_warlord_rune_b_a_suffix"					""
 
       	"DOTA_Tooltip_ability_warlord_rune_b_b"							"(W2) Weapon Mastery"
-    	"DOTA_Tooltip_ability_warlord_rune_b_b_Description"				"Добавляет часть физического урона к смене топоров и к брошенным топорам."
+    	"DOTA_Tooltip_ability_warlord_rune_b_b_Description"				"Добавляет часть физического урона к (Q) Elemental Axes. (Не к брошенным топорам)"
     	"DOTA_Tooltip_ability_warlord_rune_b_b_property_one"			"Доп. урон от базового"
     	"DOTA_Tooltip_ability_warlord_rune_b_b_suffix"					"%"
 
@@ -1857,9 +1857,9 @@
     	"DOTA_Tooltip_ability_warlord_rune_c_d_property_one"			"Дальность"
     	"DOTA_Tooltip_ability_warlord_rune_c_d_suffix"					""
 
-    	"Tooltip_elemental_axes"										"Elemental Axes"
-    	"Tooltip_throwing_axes"											"Axe Throw"
-    	"Tooltip_jump_abilities"										"Firedrop - Earth Slam & Arctic Sprint"
+    	"Tooltip_elemental_axes"										"(Q) Elemental Axes"
+    	"Tooltip_throwing_axes"											"(W) Axe Throw"
+    	"Tooltip_jump_abilities"										"(E) Firedrop, Earth Slam & Arctic Sprint"
 
       	"DOTA_Tooltip_ability_warlord_rune_d_a"							"(Q4) Quicksteel"
     	"DOTA_Tooltip_ability_warlord_rune_d_a_Description"				"Сокращает время между сменой топоров и ударами."
@@ -1986,15 +1986,15 @@
     	"DOTA_Tooltip_modifier_ascencion_cooldown"						"Ascension Cooldown"
     	"DOTA_Tooltip_modifier_ascencion_cooldown_Description"			"Иной путь перезаряжается"
 
-       	"DOTA_Tooltip_ability_bahamut_rune_c_d"							"(R3) Gigawall"
-    	"DOTA_Tooltip_ability_bahamut_rune_c_d_Description"				"Создает Wall of Impunity по окончании действия Megaflare, через которую Bahamut автоматически проходит."
-    	"DOTA_Tooltip_ability_bahamut_rune_c_d_property_one"			"Ширина стены"
+       	"DOTA_Tooltip_ability_bahamut_rune_c_d"							"(R3) Hyperion"
+    	"DOTA_Tooltip_ability_bahamut_rune_c_d_Description"				"В то время, пока Bahamut произносит Megaflare, все ближайшие враги теряют скорость передвижения и атаки."
+    	"DOTA_Tooltip_ability_bahamut_rune_c_d_property_one"			"Замедление передвижения"
     	"DOTA_Tooltip_ability_bahamut_rune_c_d_suffix"					""		
+    	"DOTA_Tooltip_ability_bahamut_rune_c_d_property_two"			"Замедление атаки"
+    	"DOTA_Tooltip_ability_bahamut_rune_c_d_suffix_two"				""		
 
-       	"DOTA_Tooltip_ability_bahamut_rune_c_d"							"(R3) Gigawall"
-    	"DOTA_Tooltip_ability_bahamut_rune_c_d_Description"				"Создает Wall of Impunity по окончании действия Megaflare, через которую Bahamut автоматически проходит."
-    	"DOTA_Tooltip_ability_bahamut_rune_c_d_property_one"			"Ширина стены"
-    	"DOTA_Tooltip_ability_bahamut_rune_c_d_suffix"					""		
+    	"DOTA_Tooltip_modifier_bahamut_rune_c_d_effect"					"Hyperion"
+    	"DOTA_Tooltip_modifier_bahamut_rune_c_d_effect_Description"		"Замедлен"	
 
        	"DOTA_Tooltip_ability_bahamut_rune_d_a"							"(Q1) Patient Mind"
     	"DOTA_Tooltip_ability_bahamut_rune_d_a_Description"				"Пассивно дарует Bahamut Интеллект."
@@ -2168,7 +2168,7 @@
     	"DOTA_Tooltip_modifier_duskbringer_rune_d_b_visible_Description"	"Понижение брони"
 
       	"DOTA_Tooltip_ability_duskbringer_rune_d_c"						"(E4) Synthesis"
-    	"DOTA_Tooltip_ability_duskbringer_rune_d_c_Description"			"Враги, задетые Entity Clash увеличивают основной урон Duskbringer в зависимости от полученного урона. Эффект длится 15 секунд, но может быть обновлён при прочтении Specter Rush."
+    	"DOTA_Tooltip_ability_duskbringer_rune_d_c_Description"			"Враги, задетые Entity Clash увеличивают основной урон Duskbringer в зависимости от полученного урона. Эффект длится 15 секунд, но сбрасывается при прочтении Specter Rush."
     	"DOTA_Tooltip_ability_duskbringer_rune_d_c_property_one"		"Доп. урон"
     	"DOTA_Tooltip_ability_duskbringer_rune_d_c_suffix"				"% от полученного урона"	
 
@@ -2204,6 +2204,9 @@
 
     	"DOTA_Tooltip_modifier_seraph_surge"							"Seraph Surge"
     	"DOTA_Tooltip_modifier_seraph_surge_Description"				"Прохождение сквозь препятствия и существ. Атака невозможна."
+		
+    	"DOTA_Tooltip_modifier_seraph_surge_glyphed"					"Seraph Surge"
+    	"DOTA_Tooltip_modifier_seraph_surge_glyphed_Description"		"Прохождение сквозь препятствия и существ."
 
     	"DOTA_Tooltip_ability_auriun_ult"								"Blessing of Life"
     	"DOTA_Tooltip_ability_auriun_ult_Description"					"Auriun наполняет ближайших союзников светом небес, увеличивая их скорость передвижения и регенерацию здоровья. Дополнительно воскрешает павших союзников."
@@ -2214,7 +2217,7 @@
     	"DOTA_Tooltip_modifier_auriun_ult_effect"						"Blessing of Life"
     	"DOTA_Tooltip_modifier_auriun_ult_effect_Description"			"Большое восстановление здоровья и увеличенная скорость передвижения."
 
-    	"tooltip_auriun_w"												"Flash Heal и Shadowflare"
+    	"tooltip_auriun_w"												"(W) Flash Heal и Shadowflare"
 
       	"DOTA_Tooltip_ability_auriun_rune_a_a"						"(Q1) Retaliation"
     	"DOTA_Tooltip_ability_auriun_rune_a_a_Description"			"Враги, атакующие цель, находящуюся под защитой Heaven's Shield получают урон, равный % от базового урона защищённой цели."
@@ -3209,7 +3212,7 @@
 		"DOTA_Tooltip_modifier_ogthun_visible_Description"	"Макс. здоровье и урон способностей увеличены"
 
 		"item_property_silverspring_glove"			"Silverspring"
-		"property_silverspring_description"			"Значение Ловкости увеличено на 15% от показателя восстановления здоровья."
+		"property_silverspring_description"			"Значение Ловкости увеличено на 100% от показателя восстановления здоровья."
 
 		"item_property_volcano_orb"					"Fiery Core"
 		"property_volcano_orb_description"			"Увеличивает ВЕСЬ исходящий магический урон на 30%"
@@ -3621,7 +3624,7 @@
 		"saveload_load"				"Загрузка"
 
 		"saveload_stash"			"Поток Вечности"
-		"saveload_stash_description"	"Предметы, сохранённые в Потоке Вечности можно перемещать между играми. Все предметы и персонажи привязаны к Steam аккаунту."
+		"saveload_stash_description"	"Предметы, сохранённые в Потоке Вечности можно перемещать между играми.<br>Все предметы и персонажи привязаны к Steam аккаунту."
 
 		"saveload_save_again"		"Вы сможете сохранить персонажа через"
 		//EG You may save again in 120...
@@ -3631,7 +3634,7 @@
 		"premium_stash_slots"		"Премиум Поток"
 		"premium_slots_info_tooltip" "Премиум ячейки сохранения героев доступны владельцам билетов Roshpit Champions, покупаемым через клиент Dota2. Когда время действия билета истечёт, загрузка героев будет по прежнему доступна, но сохранение невозможно."
 		"premium_stash_info_tooltip" "Премиум ячейки потока вечности доступны владельцам билетов Roshpit Champions, покупаемым через клиент Dota2. Когда время действия билета истечёт, доступ к загрузке предметов останется, но сохранить новые будет невозможно."
-		"saveload_confirm"			"Уровень вашего героя НИЖЕ, чем сохранённый. Кликните на слот снова, чтобы продолжить."
+		"saveload_confirm"			"Уровень вашего героя НИЖЕ, чем сохранённый.<br>Кликните на слот снова, чтобы продолжить."
 
 	    //------------------------
 		// Player Quests
@@ -3642,8 +3645,8 @@
 		"quests_quests"				"Задания"
 		"quests_quest_capacity"		"Доступны задания"
 
-		"quests_no_quests"			"Нет доступных заданий! Проверьте завтра."
-		"quests_questtip"			"Новые задания даются каждые 24 часа. Обновление списка происходит в 00:00 EST (8:00 MSK)."
+		"quests_no_quests"			"Нет доступных заданий!<br>Проверьте завтра."
+		"quests_questtip"			"Новые задания даются каждые 24 часа.<br>Обновление списка происходит в 00:00 EST (8:00 MSK)."
 
 		"quest_description"			"Посетите @dungeon_name и убейте @boss_name на сложности @difficulty_name."
 
@@ -3658,166 +3661,170 @@
 		// GLYPHS
 		//------------------------
 
-		"ui_glyphs_title"			"Глифы"
-		"tooltip_glyph"				"Глиф"
+		"ui_glyphs_title"			"Печати"
+		"tooltip_glyph"				"Печать"
 		"tooltip_neutral"			"Нейтральный"
 
-		"tooltip_arcane_crystals"	"Arcane Crystals"
-		"glyph_enchanter_header"	"Заклинатель Глифов"
+		"tooltip_resources"			"Ресурсы"
+
+		"tooltip_arcane_crystals"	"Кристаллы Мудрости"
+		"glyph_enchanter_header"	"Заклинатель"
 
 		"tooltip_enchanting_tier"	"Уровень зачарования"
 		"tooltip_upgrade_enchanter"	"Улучшить заклинателя"
 		"tooltip_upgrade_cost"		"Стоимость улучшения"
-		"upgrade_enchanter_info_tooltip"	"Улучшение зачарований привязано к вашему Steam аккаунту. Чем выше уровень заклинателя, тем больше глифов можно создать."
+		"upgrade_enchanter_info_tooltip"	"Улучшение зачарований привязано к вашему Steam аккаунту. Чем выше уровень Заклинателя, тем больше Печатей можно создать."
 		"tooltip_tier"				"Уровень"
 
-		"tooltip_shop_glyphs"		"Просмотреть Глифы"
+		"tooltip_shop_glyphs"		"Просмотреть Печати"
 
-		"dialogue_glyph_shop_one"	"Я могу обменять твои Arcane Crystals на нечто большее..."
+		"dialogue_glyph_shop_one"	"Я могу обменять твои Кристаллы Мудрости на нечто большее..."
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_1"	"Глиф малой Силы"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_1"	"Печать малой мощи"
 		"item_rpc_neutral_glyph_1_1_description" 			"Увеличивает Силу на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_1"	"Глиф Силы"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_1"	"Печать мощи"
 		"item_rpc_neutral_glyph_2_1_description" 			"Увеличивает Силу на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_1"	"Глиф Полёта"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_1"	"Печать полёта"
 		"item_rpc_neutral_glyph_3_1_description"			"Увеличивает максимальную скорость передвижения на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_1"	"Глиф большой Силы"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_1"	"Печать большой мощи"
 		"item_rpc_neutral_glyph_4_1_description" 			"Увеличивает Силу на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_1"	"Глиф Стены"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_1"	"Печать стены"
 		"item_rpc_neutral_glyph_5_1_description" 			"Снижает ВЕСЬ получаемый урон на @glyph_property1% и увеличивает весь наносимый урон на @glyph_property2%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_1"	"Глиф Войны"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_1"	"Печать войны"
 		"item_rpc_neutral_glyph_6_1_description" 			"Увеличивает основной урон на @glyph_property1%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_1"	"Глиф великой Силы"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_1"	"Печать великой мощи"
 		"item_rpc_neutral_glyph_7_1_description" 			"Увеличивает Силу на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_2"	"Глиф малой Ловкости"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_2"	"Печать малого проворства"
 		"item_rpc_neutral_glyph_1_2_description" 			"Увеличивает Ловкость на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_2"	"Глиф Ловкости"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_2"	"Печать проворства"
 		"item_rpc_neutral_glyph_2_2_description" 			"Увеличивает Ловкость на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_2"	"Глиф Уклонения"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_2"	"Печать уворота"
 		"item_rpc_neutral_glyph_3_2_description" 			"Увеличивает уклонение на @glyph_property1%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_2"	"Глиф великой Ловкости"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_2"	"Печать великого проворства"
 		"item_rpc_neutral_glyph_4_2_description" 			"Увеличивает Ловкость на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_2"	"Глиф Берсерка"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_2"	"Печать берсерка"
 		"item_rpc_neutral_glyph_5_2_description" 			"Увеличивает ВЕСЬ получаемый урон на @glyph_property1% и увеличивает весь наносимый урон на @glyph_property2%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_2"	"Глиф Способности"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_2"	"Печать выдающегося навыка"
 		"item_rpc_neutral_glyph_6_2_description" 			"Увеличивает основной урон всех способностей на @glyph_property1%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_2"	"Глиф потрясающей Ловкости"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_2"	"Печать потрясающего проворства"
 		"item_rpc_neutral_glyph_7_2_description" 			"Увеличивает Ловкость на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_3"	"Глиф малого Интеллекта"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_1_3"	"Печать малой мудрости"
 		"item_rpc_neutral_glyph_1_3_description" 			"Увеличивает Интеллект на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_3"	"Глиф Интеллекта"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_2_3"	"Печать мудрости"
 		"item_rpc_neutral_glyph_2_3_description" 			"Увеличивает Интеллект на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_3"	"Глиф ускорения"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_3_3"	"Печать быстрохода"
 		"item_rpc_neutral_glyph_3_3_description" 			"Уменьшает время перезарядки @Ability3 на @glyph_property1 сек."
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_3"	"Глиф великого Интеллекта"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_4_3"	"Печать великой мудрости"
 		"item_rpc_neutral_glyph_4_3_description" 			"Увеличивает Интеллект на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_3"	"Глиф Варварства"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_5_3"	"Печать варварства"
 		"item_rpc_neutral_glyph_5_3_description" 			"Увеличивает ВЕСЬ наносимый физический урон на @glyph_property1%, но уменьшает весь наносимый магический урон на @glyph_property2%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_3"	"Глиф Волшебства"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_6_3"	"Печать волшебства"
 		"item_rpc_neutral_glyph_6_3_description" 			"Увеличивает весь наносимый магический урон на @glyph_property1%"
 
-		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_3"	"Глиф потрясающего Интеллекта"
+		"DOTA_Tooltip_ability_item_rpc_neutral_glyph_7_3"	"Печать потрясающей мудрости"
 		"item_rpc_neutral_glyph_7_3_description" 			"Увеличивает Интеллект на @glyph_property1"
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_1_1"	"Глиф Diamond Skin"
+		//FLAMEWAKER
+
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_1_1"	"Печать алмазной кожи"
 		"item_rpc_flamewaker_glyph_1_1_description" 			"Враги, атакующие вас могут быть оглушены с шансом @glyph_property1% на @glyph_property2 сек."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_2_1"	"Глиф Кратеров"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_2_1"	"Печать кратеров"
 		"item_rpc_flamewaker_glyph_2_1_description" 			"Уменьшает время перезарядки Seismic Flare на @glyph_property1 сек."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_3_1"	"Глиф Сдвига"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_3_1"	"Печать сдвига"
 		"item_rpc_flamewaker_glyph_3_1_description" 			"Flamewaker прыгает к центру Seismic Flare и создаёт сильные подземные толчки, наносящие урон, равный @glyph_property1x силы."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_4_1"	"Глиф Синего пламени"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_4_1"	"Печать синего пламени"
 		"item_rpc_flamewaker_glyph_4_1_description" 			"Прочтение Second Heartbeat дороже в 3 раза и наносит удвоенный урон, допоолнительно замедляя скорость передвижения и атаки врагов на @glyph_property1."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_5_1"	"Глиф Горячих сердец"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_5_1"	"Печать горячих сердец"
 		"item_rpc_flamewaker_glyph_5_1_description" 			"Увеличивает урон Cataclysm и Flame Vortex в 2.5 раза."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_6_1"	"Глиф Горного массива"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_6_1"	"Печать горного массива"
 		"item_rpc_flamewaker_glyph_6_1_description" 			"Увеличивает основной урон на @glyph_property1% на @glyph_property2 секунд после прочтения Cataclysm."
 
 		"DOTA_Tooltip_modifier_flamewaker_glyph_6_1_buff"		"Mountain's Core"
 		"DOTA_Tooltip_modifier_flamewaker_glyph_6_1_buff_Description"	"Урон увеличен на 100%%."
 
-		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_7_1"	"Глиф пылающего океана"
+		"DOTA_Tooltip_ability_item_rpc_flamewaker_glyph_7_1"	"Печать пылающего океана"
 		"item_rpc_flamewaker_glyph_7_1_description" 			"Умение Blazing Trail шире в @glyph_property1 раз(а) и наносит в @glyph_property2 раз больше урона."
 
 		//VOLTEX
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_1_1"		"Глиф Magnetic Blur"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_1_1"		"Печать Magnetic Blur"
 		"item_rpc_voltex_glyph_1_1_description" 				"Во время действия Overcharge, уклонение увеличено на @glyph_property1%."
 
 		"DOTA_Tooltip_modifier_voltex_glyph_1_1_effect"			"Magnetic Blur"
 		"DOTA_Tooltip_modifier_voltex_glyph_1_1_effect_Description"	"Уклоняется от атак"	
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_2_1"		"Глиф Magnetic Haste"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_2_1"		"Печать Magnetic Haste"
 		"item_rpc_voltex_glyph_2_1_description" 				"Во время действия Overcharge, увеличивает Ловкость в @glyph_property1 раз(а) и скорость передвижения на @glyph_property2."
 
 		"DOTA_Tooltip_modifier_voltex_glyph_2_1_effect_visible" "Magnetic Haste"
 		"DOTA_Tooltip_modifier_voltex_glyph_2_1_effect_visible_Description"	"Ловкость и скорость передвижения увеличены"
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_3_1"		"Глиф Молний"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_3_1"		"Печать молний"
 		"item_rpc_voltex_glyph_3_1_description" 				"Heaven's Charge сбрасывает время перезарядки Overcharge."
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_4_1"		"Глиф нестабильного напряжения"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_4_1"		"Печать нестабильного напряжения"
 		"item_rpc_voltex_glyph_4_1_description" 				"Когда Voltex произносит любые умения, кроме Static, она выпускает @glyph_property1 электрических зарядов, наносящих @glyph_property2x магического урона от базовой атаки."
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_5_1"		"Глиф заряженных сражений"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_5_1"		"Печать заряженных сражений"
 		"item_rpc_voltex_glyph_5_1_description" 				"Увеличивает продолжительность действия руны Avatar на @glyph_property1 сек. и увеличивает основной урон во время действия Avatar на @glyph_property2%."
 
 		"DOTA_Tooltip_modifier_voltex_rune_c_d_buff_glyph_5_1"	"Charged Combat"
 		"DOTA_Tooltip_modifier_voltex_rune_c_d_buff_glyph_5_1_Description"	"Урон увеличен"
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_6_1"		"Glyph of Vengeful Skies"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_6_1"		"Печать неистового гнева"
 		"item_rpc_voltex_glyph_6_1_description" 				"Увеличивает урон от умения Static Field в @glyph_property1 раз(а) и руны Thunder Storm в @glyph_property2 раз(а)."
 
-		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_7_1"		"Глиф взрывного заряда"
+		"DOTA_Tooltip_ability_item_rpc_voltex_glyph_7_1"		"Печать взрывного заряда"
 		"item_rpc_voltex_glyph_7_1_description" 				"Прочтение Static стоит 100% вашей маны и перезаряжается 8 секунд. При этом врагам наносится увеличенный в @glyph_property1 раз(а) урон и они оглушаются на @glyph_property2 сек."
 
 		//VENOMORT
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_1_1"		"Глиф быстрого яда"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_1_1"		"Печать быстрого яда"
 		"item_rpc_venomort_glyph_1_1_description" 				"Уменьшает время перезарядки Venomous Gale Nova на @glyph_property1 сек."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_2_1"		"Глиф точсичного покрова"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_2_1"		"Печать точсичного покрова"
 		"item_rpc_venomort_glyph_2_1_description" 				"С каждым прочтением Plague Blaster, герой окутывает себя токсичным покровом на @glyph_property2 сек., что позволяет уклониться от атак врагов с шансом @glyph_property1%."
 
 		"DOTA_Tooltip_modifier_venomort_glyph_2_1_effect"		"Toxic Veil"
 		"DOTA_Tooltip_modifier_venomort_glyph_2_1_effect_Description"	"Враги промахиваются со 100%% шансом."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_3_1"		"Глиф лихорадки"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_3_1"		"Печать лихорадки"
 		"item_rpc_venomort_glyph_3_1_description" 				"Necrofusion наносит в @glyph_property1 раз(а) больший урон."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_4_1"		"Глиф гнили"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_4_1"		"Печать гнили"
 		"item_rpc_venomort_glyph_4_1_description" 				"Снижает скорость на 200, но увеличивает основной урон на @glyph_property1% и урон умений на @glyph_property2%."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_5_1"		"Глиф бешенства"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_5_1"		"Печать бешенства"
 		"item_rpc_venomort_glyph_5_1_description" 				"Позволяет атаковать дважды без задержки."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_6_1"		"Глиф нарастающей лихорадки"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_6_1"		"Печать нарастающей лихорадки"
 		"item_rpc_venomort_glyph_6_1_description" 				"Увеличивает продолжительность действия Scourge Fervor на @glyph_property1 сек."
 
-		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_7_1"		"Глиф паралича"
+		"DOTA_Tooltip_ability_item_rpc_venomort_glyph_7_1"		"Печать паралича"
 		"item_rpc_venomort_glyph_7_1_description" 				"Враги, вставшие в лужу от умения Poison Step теряют @glyph_property1% основного урона и их скорость атаки снижается на @glyph_property2."
 
 		"DOTA_Tooltip_modifier_venomort_glyph_7_1_effect"		"Crippling Poison"
@@ -3825,36 +3832,310 @@
 
 		//RED General
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_1_1"		"Глиф битвы"
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_1_1"		"Печать битвы"
 		"item_rpc_axe_glyph_1_1_description" 				"Снижает весь получаемый урон на @glyph_property1%."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_2_1"		"Глиф шокового удара"
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_2_1"		"Печать шокового удара"
 		"item_rpc_axe_glyph_2_1_description" 				"Умение Spur Shock выпускает 9 волн во всех направлениях."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_3_1"		"Глиф сконцентрированной силы" //redder echoslahm particle
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_3_1"		"Печать сконцентрированной силы" //redder echoslahm particle
 		"item_rpc_axe_glyph_3_1_description" 				"Умение Sunder наносит на @glyph_property1% меньший урон, а все возможные срабатывания руны Multi-Dunk сконцентрированы в один мощный удар."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_4_1"		"Глиф кругового удара"
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_4_1"		"Печать кругового удара"
 		"item_rpc_axe_glyph_4_1_description" 				"С каждым прочтением Spur Shock, General вращает топором вокруг себя, нанося 4 кратный базовый урон всем стоящим неподалеку врагам."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_5_1"		"Глиф импульса" // lower pitch base sound high pitch strike sound
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_5_1"		"Печать импульса" // lower pitch base sound high pitch strike sound
 		"item_rpc_axe_glyph_5_1_description" 				"Время оглушения от умения Skull Basher снижено до 0.03 сек., но урон от этой способности увеличен в @glyph_property1 раз(а)."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_6_1"		"Глиф мускульной силы"
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_6_1"		"Печать мускульной силы"
 		"item_rpc_axe_glyph_6_1_description" 				"Каждое очко Силы дополнительно увеличивает основной урон на @glyph_property1."
 
-		"DOTA_Tooltip_ability_item_rpc_axe_glyph_7_1"		"Глиф непрерывной битвы"
+		"DOTA_Tooltip_ability_item_rpc_axe_glyph_7_1"		"Печать непрерывной битвы"
 		"item_rpc_axe_glyph_7_1_description" 				"80% получаемого урона применяется не сразу, а разделяется равномерно на 3 секунды."
+
+		//Astral Ranger
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_1_1"		"Печать крыльев"
+		"item_rpc_astral_glyph_1_1_description" 				"Pegasus перемещается между указанной точкой и текущей позицией героя 4 раза."
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_2_1"		"Печать воздушного креста"
+		"item_rpc_astral_glyph_2_1_description" 				"Урон призванного (R3) Phoenix увеличен в @glyph_property1 раз(а), а все задетые им враги замедляются на @glyph_property2."
+
+		"DOTA_Tooltip_modifier_astral_glyph_2_1_slow"			"Phoenix Slow"
+		"DOTA_Tooltip_modifier_astral_glyph_2_1_slow_Description"	"Замедлен"
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_3_1"		"Печать полумесяца"
+		"item_rpc_astral_glyph_3_1_description" 				"(W1) Split shot выпускает только @glyph_property1 стрел, но увеличивает их урон в @glyph_property2 раз(а)."
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_4_1"		"Печать пространственных искажений"
+		"item_rpc_astral_glyph_4_1_description" 				"(E) Astral Rift перемещает героя мгновенно."
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_5_1"		"Печать лунных волн"
+		"item_rpc_astral_glyph_5_1_description" 				"Увеличивает длительность (Q) Moon Shroud на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_6_1"		"Печать пробивающих стрел"
+		"item_rpc_astral_glyph_6_1_description" 				"Ваши базовые атаки наносят дополнительный ЧИСТЫЙ урон в размере @glyph_property1% от основного урона."
+
+		"DOTA_Tooltip_ability_item_rpc_astral_glyph_7_1"		"Печать серебрянных звёзд"
+		"item_rpc_astral_glyph_7_1_description" 				"Во время произнесения (R) Celestial Burst, герой уворачивается от 100% атак. (R) Celestial Burst, (R1) Starfall, и (R2) Starquakes наносят @glyph_property1 кратный урон."
+
+		"DOTA_Tooltip_modifier_astral_glyph_7_1_evasion_effect"	"Silver Stars"
+		"DOTA_Tooltip_modifier_astral_glyph_7_1_evasion_effect_Description"	"100%% уклонение"
+
+		//Epoch Guardian
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_1_1"		"Печать разрушительных связей"
+		"item_rpc_epoch_glyph_1_1_description" 				"Враги, находящиеся под действием (Q) Time Binds и (Q1) Space Links получат на @glyph_property1% урона из всех источников."
+
+		"DOTA_Tooltip_modifier_epoch_glyph_1_1_effect"		"Crumbling Bonds"
+		"DOTA_Tooltip_modifier_epoch_glyph_1_1_effect_Description"	"Получаемый урон из ВСЕХ источников увеличен"
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_2_1"		"Печать искаженного времени"
+		"item_rpc_epoch_glyph_2_1_description" 				"(E) Distortion Orb пролетает в @glyph_property1 раз(а) большее расстояние и движется в @glyph_property2 раз(а) быстрее."
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_3_1"		"Печать разлома"
+		"item_rpc_epoch_glyph_3_1_description" 				"Взрывы у умения (W) Generation Crack образуют расширяющийся конус."
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_4_1"		"Печать вечности"
+		"item_rpc_epoch_glyph_4_1_description" 				"Количество (R2) Guardian of Ages удвоено, усиляя эффект."
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_5_1"		"Печать подмены времени"
+		"item_rpc_epoch_glyph_5_1_description" 				"С каждой базовой атакой по одной цели, урон будет возрастать на @glyph_property1%. Максимум @glyph_property2 стаков. Бонус сбрасывается, если была атакована новая цель."
+
+		"DOTA_Tooltip_modifier_epoch_glyph_5_1_effect"		"Substituted Time"
+		"DOTA_Tooltip_modifier_epoch_glyph_5_1_effect_Description"	"Урон по одной цели с каждой атакой увеличивается."
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_6_1"		"Печать неясного течения"
+		"item_rpc_epoch_glyph_6_1_description" 				"Враги, находящиеся под действием (Q) Time Binds и (Q1) Space Links теряют @glyph_property1% своего основного урона."
+
+		"DOTA_Tooltip_modifier_epoch_glyph_6_1_effect"		"Tangled Flow"
+		"DOTA_Tooltip_modifier_epoch_glyph_6_1_effect_Description"	"Базовый урон уменьшен"
+
+		"DOTA_Tooltip_ability_item_rpc_epoch_glyph_7_1"		"Печать измерений"
+		"item_rpc_epoch_glyph_7_1_description" 				"Пока летит (E) Distortion Orb, герой покидает это измерение, не позволяя ему ничего делать и уклоняясь от летящих заклинаний и атак."
+
+		//Paladin
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_1_1"		"Печать воскрешения"
+		"item_rpc_paladin_glyph_1_1_description" 				"Снижает время перезарядки (E1) Second Coming на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_2_1"		"Печать святого гнева"
+		"item_rpc_paladin_glyph_2_1_description" 				"Враги, задетые (Q) Heroic Fury так-же получат эффект (W1) Holy Fire текущего уровня"
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_3_1"		"Печать всевышнего"
+		"item_rpc_paladin_glyph_3_1_description" 				"Герой распространяет ауру, увеличивающую основной урон на @glyph_property1%."
+
+		"DOTA_Tooltip_modifier_paladin_glyph_3_1_effect"		"Command Aura"
+		"DOTA_Tooltip_modifier_paladin_glyph_3_1_effect_Description"	"Урон увеличен"
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_4_1"		"Печать неизбежного рока"
+		"item_rpc_paladin_glyph_4_1_description" 				"(W) Justice Overwhelming не отталкивает героя."
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_5_1"		"Печать истинной защиты"
+		"item_rpc_paladin_glyph_5_1_description" 				"Сокращает время перезарядки (Q3) Divine Aegis на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_6_1"		"Печать величия"
+		"item_rpc_paladin_glyph_6_1_description" 				"Герой растространяет ауру повышения скорости передвижения на @glyph_property1."
+
+		"DOTA_Tooltip_modifier_paladin_glyph_6_1_effect"		"Nobility Aura"
+		"DOTA_Tooltip_modifier_paladin_glyph_6_1_effect_Description"	"Скорость передвижения увеличена"
+
+		"DOTA_Tooltip_ability_item_rpc_paladin_glyph_7_1"		"Печать усердия"
+		"item_rpc_paladin_glyph_7_1_description" 				"С каждой атакой есть шанс @glyph_property1%, что герой без задержки атакует соседнюю цель."
+
+		//Sorceress
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_1_1"		"Печать ледяных ветров"
+		"item_rpc_sorceress_glyph_1_1_description" 				"(Q) Blizzard наносит в @glyph_property1 раз(а) больше урона и дополнительно замедляет скорость передвижения и атаки целей на @glyph_property2."
+
+		"DOTA_Tooltip_modifier_sorceress_glyph_1_1_effect"				"Freezing Winds"
+		"DOTA_Tooltip_modifier_sorceress_glyph_1_1_effect_Description"	"Скорость атаки и передвижения снижена"	
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_2_1"		"Печать Ice Shards"
+		"item_rpc_sorceress_glyph_2_1_description" 				"Каждое прочтение (Q1)Ice Lance так-же выпускает еще 2 ледяных копья (конусом)."
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_3_1"		"Печать огненной волны"
+		"item_rpc_sorceress_glyph_3_1_description" 				"Мгновенно выпускает 2й и 3й огненных шара сразу после прочтения."
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_4_1"		"Печать великой мудрости"
+		"item_rpc_sorceress_glyph_4_1_description" 				"Увеличивает скорость атаки героя и ее элементаля на @glyph_property1."
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_5_1"		"Печать потока мудрости"
+		"item_rpc_sorceress_glyph_5_1_description" 				"Заменяет (W) Arcane Explosion на (W) Arcane Torrent, который направляется в одного врага на большом расстоянии и наносит урон, оснонванный на (W1) Arcane Missles."
+
+		"DOTA_Tooltip_ability_arcane_torrent"					"Arcane Torrent"
+		"DOTA_Tooltip_ability_arcane_torrent_Description"		"Сжигая 1% своей макс. маны Sorceress ежесекундно отправляет в выбранного врага поток (W1) Arcane missles. Наносит увеличенный урон за счёт (W4) Mana Rush."
+		"DOTA_Tooltip_ability_arcane_torrent_range"				"ДАЛЬНОСТЬ:"
+		"DOTA_Tooltip_ability_arcane_torrent_break_distance"	"ДАЛЬНОСТЬ РАЗРЫВА:"
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_6_1"		"Печать белых бурь"
+		"item_rpc_sorceress_glyph_6_1_description" 				"На прочтение (Q) Blizzard не тратится время."
+
+		"DOTA_Tooltip_ability_item_rpc_sorceress_glyph_7_1"		"Печать огненного хаоса"
+		"item_rpc_sorceress_glyph_7_1_description" 				"(R) Pyroblast заменяется на усиленную в @glyph_property1 раз(а) версию Chaos Blast."
+
+		//Conjuror
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_1_1"		"Печать сжигающего пламени"
+		"item_rpc_conjuror_glyph_1_1_description" 				"Ваш огненный элементаль увеличивает свою скорость атаки на @glyph_property1 и урон на @glyph_property2%."
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_2_1"		"Glyph of Conjuring"
+		"item_rpc_conjuror_glyph_2_1_description" 				"Увеличивает показатель макс. здоровья всех элементалей на @glyph_property1%"
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_3_1"		"Glyph of Encroaching Shadow"
+		"item_rpc_conjuror_glyph_3_1_description" 				"Находясь под действием (R) Call of the elements, умение (E) Shadow Gate перезаряжается @glyph_property1 сек. (Элементаль тимы должен быть жив по окончании прочтения (R) Call of the elements)"
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_4_1"		"Печать длинной тени"
+		"item_rpc_conjuror_glyph_4_1_description" 				"Увеличивает основной урон вашего элементаля тени на @glyph_property1."
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_5_1"		"Печать дрожащей земли"
+		"item_rpc_conjuror_glyph_5_1_description" 				"Радиус умения (Q) Earthquake увеличен на @glyph_property1, а длительность свободного создания землетрясения увеличен на @glyph_property2 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_6_1"		"Печать огнемёта"
+		"item_rpc_conjuror_glyph_6_1_description" 				"С каждым критическим ударом ваш элементаль огня создаёт огненную воронку, наносящую в @glyph_property1 раз(а) ольше урона (от крита)."
+
+		"DOTA_Tooltip_ability_item_rpc_conjuror_glyph_7_1"		"Печать бессмертной земли"
+		"item_rpc_conjuror_glyph_7_1_description" 				"Когда элементаль земли погибнет, он будет автоматически мгновенно перепризван."
+
+		//Seinaru
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_1_1"		"Печать свирепых ветров"
+		"item_rpc_monk_glyph_1_1_description" 				"Увеличивает урон от (Q1) Cloudburst, (W1) Circle of Wind, (E1) Gust, (R1) Tornado, и (R) Ultima Blade на @glyph_property1%"
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_2_1"		"Печать мастера клинков"
+		"item_rpc_monk_glyph_2_1_description" 				"Герой уклоняется от 100% атак во время (Q) Combination Strike"
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_3_1"		"Печать меченосца"
+		"item_rpc_monk_glyph_3_1_description" 				"Третья атака от умения (Q) Combination Strike наносит в @glyph_property1 раз(а) больше урона и сбрасывает перезарядку у (R) Ultima Blade."
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_4_1"		"Печать Инь"
+		"item_rpc_monk_glyph_4_1_description" 				"Скорость передвижения героя увеличена на @glyph_property1"
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_5_1"		"Печать светлого воина" //Red burst particle effect for damage
+		"item_rpc_monk_glyph_5_1_description" 				"(W) Hands of Hikari наносит урон, равный эффекту исцеления."
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_6_1"		"Печать девяти хвостов"
+		"item_rpc_monk_glyph_6_1_description" 				"(W) Hands of Hikari произносится мгновенно, что позволяет перемещаться во время прочтения."
+
+		"DOTA_Tooltip_ability_item_rpc_monk_glyph_7_1"		"Печать исчезающего бриза"
+		"item_rpc_monk_glyph_7_1_description" 				"(E2) Odachi Rush и (E) Odachi Leap позволяет уклониться от направленных атак."
+
+		//Elemental Warlord
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_1_1"		"Печать камня"
+		"item_rpc_warlord_glyph_1_1_description" 				"Пока активны земляные топоры, весь получаемый урон снижен на @glyph_property1%."
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_2_1"		"Печать яростной битвы"
+		"item_rpc_warlord_glyph_2_1_description" 				"Пока активны огненные топоры, основной урон увеличен на @glyph_property1%."
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_3_1"		"Печать тайного льда"
+		"item_rpc_warlord_glyph_3_1_description" 				"Пока активны ледяные топоры, весь наносимый магический урон увеличен на @glyph_property1%"
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_4_1"		"Печать засады"
+		"item_rpc_warlord_glyph_4_1_description" 				"Попадая по врагу брошенным топором, герой прыгает к нему, нанося @glyph_property1 кратный критический урон. Перезаряжается @glyph_property2 сек."
+
+		"DOTA_Tooltip_modifier_beastmaster_glyph_4_1_cooldown"	"Ambush Cooldown"
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_5_1"		"Печать неистовой бойни"
+		"item_rpc_warlord_glyph_5_1_description" 				"Каждый убитый враг увеличивает основной урон на @glyph_property1%, складывается до 50 раз. Длится @glyph_property2 сек. Обновляется при убийстве."
+
+		"DOTA_Tooltip_modifier_warlord_glyph_5_1_effect"		"Savage Combat"
+		"DOTA_Tooltip_modifier_warlord_glyph_5_1_effect_Description"	"Убивая врагов, основной урон увеличивается."
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_6_1"		"Печать защитного покрова"
+		"item_rpc_warlord_glyph_6_1_description" 				"Каждый взмах (Q) Elemental Axes наделяет героя @glyph_property1 секундным магическим щитом."
+
+		"DOTA_Tooltip_ability_item_rpc_warlord_glyph_7_1"		"Печать войны"
+		"item_rpc_warlord_glyph_7_1_description" 				"Каждая базовая атака становится взрывом, нанося @glyph_property1% основного урона магией."
+
+		//Bahamut
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_1_1"		"Печать доблести"
+		"item_rpc_bahamut_glyph_1_1_description" 				"Снижает весь получаемый физический урон на @glyph_property1%"
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_2_1"		"Печать Gigawall"
+		"item_rpc_bahamut_glyph_2_1_description" 				"Создаёт Wall of Impunity по окончании (R) Megaflare, через которую герой автоматически проходит."
+
+		//New Rune c_d: while channeling megaflare, all nearby enemies have slowed movespeed and attack speed
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_3_1"		"Печать разделения"
+		"item_rpc_bahamut_glyph_3_1_description" 				"(W) Judgement действует вокруг героя(вместо атаки впереди) на @glyph_property1% большем радиусе."
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_4_1"		"Печать вздымающихся волн"
+		"item_rpc_bahamut_glyph_4_1_description" 				"Увеличивает радиус (E3)Bahamut Pulse на @glyph_property1%"
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_5_1"		"Печать изоляции"
+		"item_rpc_bahamut_glyph_5_1_description" 				"Увеличивает продолжительность (R4) Solitary Shell на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_6_1"		"Печать гордости"
+		"item_rpc_bahamut_glyph_6_1_description" 				"Удваивает время перезарядки (E) Ascension, а (E3) Bahamut Pulse каждый пятый испульс оглушает цели на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_bahamut_glyph_7_1"		"Печать барьера"
+		"item_rpc_bahamut_glyph_7_1_description" 				"Увеличивает время действия (Q) Wall of Impunity на @glyph_property1 сек."
+
+		//Duskbringer
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_1_1"		"Печать духов"
+		"item_rpc_duskbringer_glyph_1_1_description" 				"Герой проходит сквозь существ."
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_2_1"		"Печать действительности"
+		"item_rpc_duskbringer_glyph_2_1_description" 				"Максимальное время возрождения снижено на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_3_1"		"Печать скитаний"
+		"item_rpc_duskbringer_glyph_3_1_description" 				"Каждый стак (E1)Phantom Pace дополнительно увеличивает базовый урон на @glyph_property1%."
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_4_1"		"Печать сумерек"
+		"item_rpc_duskbringer_glyph_4_1_description" 				"Увеличивает урон (E1) Shadowslam на @glyph_property1%, а время оглушения на @glyph_property2 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_5_1"		"Печать прозрения"
+		"item_rpc_duskbringer_glyph_5_1_description" 				"Увеличивает количество атак (R)Seven Visions на @glyph_property1"
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_6_1"		"Печать порыва"
+		"item_rpc_duskbringer_glyph_6_1_description" 				"Уменьшает время перезарядки (Q) Whirling Flail на @glyph_property1 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_duskbringer_glyph_7_1"		"Печать призраков"
+		"item_rpc_duskbringer_glyph_7_1_description" 				"Заменяет (E) Specter Rush на (E) Manifestation - способность, которая перемещает Duskbringer к точке и применяет на всех рядом стоящих противниках (E3) Entity Clash."
+
+    	"DOTA_Tooltip_ability_manifestation"						"Manifestation"
+    	"DOTA_Tooltip_ability_manifestation_Description"			"Duskbringer мгновенно перемещается к указанной точке, атакуя попавшихся врагов с помощью (E3) Entity Clash."
+
+		//Auriun
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_1_1"		"Печать Nimbus"
+		"item_rpc_auriun_glyph_1_1_description" 				"Все союзники, попавшие под действие (R) Blessing of Life получат @glyph_property1 скорости передвижения на @glyph_property2 сек."
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_2_1"		"Печать распада"
+		"item_rpc_auriun_glyph_2_1_description" 				"Действие руны (Q2) Lasting Protection дополнительно распространяется на (Q3) Second Wind"
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_3_1"		"Печать непробиваемой воли"
+		"item_rpc_auriun_glyph_3_1_description" 				"Союзники, находящиеся под защитой (Q) не могут быть оглушены, но любое оглушение полностью снимает щит.."
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_4_1"		"Печать безграничности"
+		"item_rpc_auriun_glyph_4_1_description" 				"Увеличивает дальность атаки на @glyph_property1."
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_5_1"		"Печтаь Агнелов"
+		"item_rpc_auriun_glyph_5_1_description" 				"Герой может атаковать во время (E) Seraph Surge, но он не сможет уйти в невидимость и проходить через препятствия."
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_6_1"		"Печать света"
+		"item_rpc_auriun_glyph_6_1_description" 				"Добавляет @glyph_property1 сек неуязвимости, когда был активирован (Q) Heaven's shield."
+
+		"DOTA_Tooltip_modifier_auriun_glyph_6_1_effect"			"Luminescence"
+		"DOTA_Tooltip_modifier_auriun_glyph_6_1_effect_description"	"Полный иммунитет к урону"
+
+		"DOTA_Tooltip_ability_item_rpc_auriun_glyph_7_1"		"Печать баланса"
+		"item_rpc_auriun_glyph_7_1_description" 				"Каждое очко Силы и Ловкости даёт герою дополнительно @glyph_property1 ед. базового урона."
+
+
 
 	    //------------------------
 		// Special Mobs
 		//------------------------		
 
-		"DOTA_Tooltip_modifier_paragon"								"Юнит Парагона"
-		"DOTA_Tooltip_modifier_paragon_Description"					"Сильное существо"
+		"DOTA_Tooltip_modifier_paragon"								"Paragon Unit"
+		"DOTA_Tooltip_modifier_paragon_Description"					"Мощное элитное существо"
 
-		"DOTA_Tooltip_modifier_paragon_solo"						"Герой Парагона"
-		"DOTA_Tooltip_modifier_paragon_solo_Description"			"Мощное существо"
+		"DOTA_Tooltip_modifier_paragon_solo"						"Paragon Hero"
+		"DOTA_Tooltip_modifier_paragon_solo_Description"			"Мощное легендарное существо"
 
 		"DOTA_Tooltip_modifier_paragon_fire_breathing"				"Fire Breathing"
 		"DOTA_Tooltip_modifier_paragon_fire_breathing_Description"	""
@@ -3890,7 +4171,7 @@
 		"DOTA_Tooltip_modifier_paragon_crippling_Description"		""
 
 		"DOTA_Tooltip_modifier_creature_crippling_aura_debuff"		"Crippling Aura"
-		"DOTA_Tooltip_modifier_creature_crippling_aura_debuff_Description"		"-1%% health regen, -50%% attack power and -120 attack speed."
+		"DOTA_Tooltip_modifier_creature_crippling_aura_debuff_Description"		"-1%% реген. здоровья, -50%% урон -120 скорость атаки."
 
 		"DOTA_Tooltip_modifier_paragon_light_infused"				"Light Infused"
 		"DOTA_Tooltip_modifier_paragon_light_infused_Description"	""
@@ -4143,7 +4424,7 @@
 		"ruins_room1"		"Планетарий"
 		"ruins_room2"		"Тронный Зал"
 		"ruins_room3"		"Грибная лаборатория"
-		"ruins_room4"		"Комната пыток"
+		"ruins_room4"		"Камера пыток"
 		"ruins_room5"		"Ядовитый сад"
 		"ruins_room6"		"Мавзолей"
 		"ruins_room7"		"Забытая комната"
