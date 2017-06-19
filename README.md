@@ -3,7 +3,8 @@ localization files for Roshpit Champions
 
 English file is handled by ChalkyBrush
 
-Chinese file is handled by Koim
+Chinese file is handled by Koim up to April 2016
+Chinese file is currently handled by songcx
 
 
 
